@@ -1,0 +1,35 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-09-07T17:06:16.674090",
+    "startedAt": "2021-09-07T17:06:15.589657",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "processed_data.csv:latest",
+        "--artifact_root",
+        "segregated_data",
+        "--artifact_type",
+        "segreg_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/home/jon/udacity3/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/jongm/genre_classification.git",
+        "commit": "b0b7747db6eb7464ee38839c484595e6cf9e7531"
+    },
+    "email": "jongm92@gmail.com",
+    "root": "/home/jon/udacity3/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification",
+    "host": "DESKTOP-1S45H4U",
+    "username": "jon",
+    "executable": "/home/jon/miniconda3/envs/mlflow-b536c99cab3f07bfeb0a1ad9e153575c07cd087e/bin/python"
+}

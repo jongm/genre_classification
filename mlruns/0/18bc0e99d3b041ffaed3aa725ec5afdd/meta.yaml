@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jon/udacity3/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/genre_classification/mlruns/0/18bc0e99d3b041ffaed3aa725ec5afdd/artifacts
+end_time: 1631034428251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 18bc0e99d3b041ffaed3aa725ec5afdd
+run_uuid: 18bc0e99d3b041ffaed3aa725ec5afdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631034344111
+status: 3
+tags: []
+user_id: jon
